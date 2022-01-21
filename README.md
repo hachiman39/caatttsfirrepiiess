@@ -60,7 +60,7 @@ A simple Telegram userbot based on Telethon .
 
 ## License
 
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/sandy1709/catuserbot/blob/master/LICENSE) See `LICENSE` for more information.
+Distributed under the [GNU General Public License v3.0 License.](hhttps://github.com/hachiman39/caatttsfirrepiiess) See `LICENSE` for more information.
 
 ## Disclaimer
 Read these lines! 
